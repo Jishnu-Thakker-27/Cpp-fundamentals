@@ -15,17 +15,6 @@ I am currently learning C++ from the Bro Code YouTube One Shot and documenting e
 
 ---
 
-## 📂 Folder Structure
-
-Each day’s progress is organized separately:
-
-Each folder may include:
-- Code files (.cpp)
-- Practice problems
-- Small experiments
-- Notes (if any)
-
----
 
 ## 🧠 Topics Covered
 
