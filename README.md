@@ -59,8 +59,4 @@ Instead of just watching tutorials, I am:
 
 ---
 
-## 🤝 Connect With Me
-
-I’m documenting my journey and sharing insights along the way.
-
 Stay tuned 🚀
